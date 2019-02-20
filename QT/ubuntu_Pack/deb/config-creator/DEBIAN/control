@@ -1,0 +1,7 @@
+Package:config-creator
+Version:1.0.1
+Section:utils
+Priority:extra
+Maintainer:SmartBow
+Architecture:amd64
+Description: The software is an opensource package from SmartBow

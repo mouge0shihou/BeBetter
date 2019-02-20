@@ -1,0 +1,8 @@
+[Desktop Entry]
+Version=1.0.1
+Name=config-creator
+Name[zh_CN]=烧写配置生成工具
+Exec=sh "/opt/config-creator/config-creator.sh"
+Termina=false
+Type=Application
+Categories=Application

@@ -1,0 +1,4 @@
+echo "Start to remove"
+rm -rf /usr/share/applications/config-creator.desktop
+rm -rf /opt/config-creator
+echo "Remove finished!"

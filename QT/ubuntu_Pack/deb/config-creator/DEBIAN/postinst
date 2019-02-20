@@ -1,0 +1,4 @@
+echo "Start to install"
+mv -f /application/lib/config-creator.desktop /usr/share/applications/
+mv -f /application/config-creator/* /opt/
+echo "Install ok"

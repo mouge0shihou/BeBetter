@@ -1,0 +1,4 @@
+生成deb安装包的命令: sudo dpkg -b config-creator config-creator.deb
+安装deb安装包的命令: sudo dpkg -i config-creator.deb
+卸载deb安装包的命令: sudo dpkg -r config-creator
+
