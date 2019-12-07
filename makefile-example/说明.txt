@@ -1,0 +1,8 @@
+linux默认头文件查找路径
+/usr/include
+/usr/local/include
+/usr/lib/gcc/i686-linux-gnu/4.x.x/include
+
+linux默认库文件查找路径
+/usr/lib
+/lib

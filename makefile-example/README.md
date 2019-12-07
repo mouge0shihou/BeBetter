@@ -1,0 +1,1 @@
+更多内容请参考[例说makefile——博文索引](http://blog.csdn.net/xukai871105/article/details/37083675)
